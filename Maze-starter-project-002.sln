@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{339E5A28-B9BB-31FF-22CF-20D94A5929AB}") = "Maze-starter-project-002", "Assembly-CSharp.csproj", "{704B9D44-8530-E17A-4DF8-40E420B28D26}"
+EndProject
+Project("{339E5A28-B9BB-31FF-22CF-20D94A5929AB}") = "Maze-starter-project-002", "Assembly-CSharp-Editor.csproj", "{483730AA-3ED3-CA98-545F-9F1E627CC86A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{704B9D44-8530-E17A-4DF8-40E420B28D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704B9D44-8530-E17A-4DF8-40E420B28D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704B9D44-8530-E17A-4DF8-40E420B28D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704B9D44-8530-E17A-4DF8-40E420B28D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483730AA-3ED3-CA98-545F-9F1E627CC86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483730AA-3ED3-CA98-545F-9F1E627CC86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483730AA-3ED3-CA98-545F-9F1E627CC86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483730AA-3ED3-CA98-545F-9F1E627CC86A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
